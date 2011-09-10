@@ -1,4 +1,4 @@
-var clog = require('./lib/wrap');
+require('./lib/wrap');
 
 function MyClass() {
   this.value = "Hello World!";
