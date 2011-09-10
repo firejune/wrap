@@ -11,7 +11,7 @@ Wrap is Prototype.js style context wrapping it in another function in NodeJS.
 
 GIT
 
-    $ git clone https://github.com/firejune/wrap.git
+    $ git clone git://github.com/firejune/wrap.git
 
 NPM
 
