@@ -1,7 +1,7 @@
 {
   "name": "wrap",
   "author": "Firejune (http://firejune.com/)",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Wrap is Prototype.js style context wrapping it in another function",
   "homepage": "http://github.com/firejune/wrap",
   "keywords": [
@@ -23,6 +23,9 @@
     "type": "MIT",
     "url": "http://www.opensource.org/licenses/mit-license.php"
   }],
+  "bugs" : {
+    "url" : "http://github.com/firejune/wrap/issues"
+  },
   "engines": {
     "node": ">= 0.4.0"
   }
